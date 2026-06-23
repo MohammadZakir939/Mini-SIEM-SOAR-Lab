@@ -1,0 +1,18 @@
+{
+  "T1059.001": {
+    "tactic": "Execution",
+    "technique": "PowerShell"
+  },
+  "T1490": {
+    "tactic": "Impact",
+    "technique": "Inhibit System Recovery"
+  },
+  "T1053": {
+    "tactic": "Persistence",
+    "technique": "Scheduled Task"
+  },
+  "T1082": {
+    "tactic": "Discovery",
+    "technique": "System Information Discovery"
+  }
+}
