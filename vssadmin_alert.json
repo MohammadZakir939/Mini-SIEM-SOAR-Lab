@@ -1,0 +1,7 @@
+{
+    "alert_name": "vssadmin Alert",
+    "host": "ZakirsMustang",
+    "event_id": 1,
+    "mitre_id": "T1490",
+    "timestamp": "2026-06-23 12:05:00"
+}
