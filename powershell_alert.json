@@ -1,0 +1,7 @@
+{
+    "alert_name": "PowerShell Alert",
+    "host": "ZakirsMustang",
+    "event_id": 1,
+    "mitre_id": "T1059.001",
+    "timestamp": "2026-06-23 13:00:00"
+}
