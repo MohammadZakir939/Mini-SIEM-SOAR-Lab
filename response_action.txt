@@ -1,0 +1,6 @@
+CRITICAL INCIDENT DETECTED
+Recommended Actions:
+1. Isolate Host
+2. Preserve Evidence
+3. Notify SOC Team
+4. Begin Investigation
