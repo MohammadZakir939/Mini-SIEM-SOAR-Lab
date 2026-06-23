@@ -1,0 +1,36 @@
+
+====================================
+SOC INVESTIGATION CASE
+====================================
+
+Case ID: CASE-1001
+
+Created:
+2026-06-23 12:48:20.386154
+
+Severity:
+Critical
+
+MITRE ATT&CK:
+T1059.001 - PowerShell
+
+Timeline:
+
+12:01 -> PowerShell Execution
+12:03 -> Shadow Copy Deletion
+12:05 -> Mass File Creation
+
+Risk Score:
+150
+
+Response Actions:
+
+1. Isolate Host
+2. Preserve Evidence
+3. Notify SOC Team
+4. Begin Investigation
+
+Case Status:
+Open
+
+====================================
