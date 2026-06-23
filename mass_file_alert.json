@@ -1,0 +1,7 @@
+{
+    "alert_name": "Mass File Creation Alert",
+    "host": "ZakirsMustang",
+    "event_id": 11,
+    "mitre_id": "T1490",
+    "timestamp": "2026-06-23 12:10:00"
+}
