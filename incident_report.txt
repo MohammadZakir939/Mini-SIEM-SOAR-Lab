@@ -1,0 +1,24 @@
+
+=============================
+SOC INCIDENT REPORT
+=============================
+
+Incident ID: INC-3479
+
+Timestamp: 2026-06-23 12:32:12
+
+Severity: High
+
+Alert Name:
+PowerShell Alert
+
+MITRE Technique:
+T1059.001
+
+Host:
+ZakirsMustang
+
+Status:
+Open
+
+=============================
