@@ -1,0 +1,13 @@
+{
+    "case_id": "CASE-20260623193917",
+    "created": "2026-06-23 19:39:17",
+    "severity": "Critical",
+    "risk_score": 150,
+    "status": "Open",
+    "alert_count": 3,
+    "alerts": [
+        "Mass File Creation Alert",
+        "PowerShell Alert",
+        "vssadmin Alert"
+    ]
+}
