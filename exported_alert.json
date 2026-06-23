@@ -1,0 +1,7 @@
+{
+    "search_name": "PowerShell Alert",
+    "host": "ZakirsMustang",
+    "event_id": 1,
+    "command_line": "powershell.exe Get-Date",
+    "timestamp": "2026-06-23 13:00:00"
+}
