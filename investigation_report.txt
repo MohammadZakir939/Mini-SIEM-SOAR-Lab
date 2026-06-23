@@ -1,0 +1,51 @@
+
+==================================================
+SOC INCIDENT INVESTIGATION REPORT
+==================================================
+
+CASE INFORMATION
+----------------
+Case ID: CASE-20260623162809
+Status: Open
+Severity: Critical
+Risk Score: 150
+
+ALERT SUMMARY
+-------------
+Total Alerts Correlated: 3
+
+Alerts Observed:
+
+- Mass File Creation Alert
+- PowerShell Alert
+- vssadmin Alert
+
+ATTACK ANALYSIS
+---------------
+Observed activity is consistent with ransomware
+precursor behavior.
+
+Indicators:
+- PowerShell Execution
+- Shadow Copy Deletion
+- Mass File Creation
+
+MITRE ATT&CK
+------------
+T1059.001 - PowerShell
+T1490 - Inhibit System Recovery
+
+RECOMMENDED ACTIONS
+-------------------
+1. Isolate Endpoint
+2. Preserve Evidence
+3. Collect Memory Artifacts
+4. Review User Activity
+5. Initiate Incident Response
+
+CONCLUSION
+----------
+Incident classified as CRITICAL and requires
+immediate investigation.
+
+==================================================
